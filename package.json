@@ -1,0 +1,29 @@
+{
+  "name": "shtrudel",
+  "version": "1.0.0",
+  "description": "Allows you to easily create config with decoreators",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenTimor/Shtrudel.git"
+  },
+  "keywords": [
+    "shtrudel",
+    "config",
+    "configuration",
+    "decorators",
+    "env",
+    "process",
+    "dotenv"
+  ],
+  "author": "Ben Timor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenTimor/Shtrudel/issues"
+  },
+  "homepage": "https://github.com/BenTimor/Shtrudel#readme"
+}
