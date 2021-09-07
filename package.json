@@ -1,6 +1,6 @@
 {
   "name": "shtrudel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Allows you to easily create config with decoreators",
   "main": "dist/index.js",
   "scripts": {
