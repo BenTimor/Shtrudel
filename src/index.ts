@@ -1,4 +1,4 @@
-export type DataSource = (key: string) => string | undefined;
+export type DataSource = (key: string) => string | undefined | void;
 
 /**
  * Tries to get the data from all of the data sources. If it succeed with getting it, it returns the value. If not, returns undefined.
